@@ -1,5 +1,5 @@
 # Alonzo-Cybersecurity-Portfolio
 
 ## Professional Statements
-Cybersecurity focused IT professional targeting security roles in Dallas and Austin. Also Majoring in Associates towards Cybersecurity. 
+Cybersecurity focused IT student targeting security roles. Also Majoring in Associates towards Cybersecurity. 
 CompTIA Security+ Certified
